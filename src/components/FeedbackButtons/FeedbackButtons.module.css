@@ -1,0 +1,9 @@
+.buttonBox {
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+button {
+  text-transform: capitalize;
+}
